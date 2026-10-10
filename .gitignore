@@ -1,0 +1,15 @@
+.codex-remote-attachments/
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+
+# Android
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
